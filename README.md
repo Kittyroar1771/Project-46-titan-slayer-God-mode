@@ -1,1 +1,2 @@
-# Project-46-titan-slayer-God-mode
+# p5.play-boilerplate
+Boiler plate for p5.play
